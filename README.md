@@ -1,6 +1,6 @@
 # 🗓️ 100 Days of SQL — NextLeap SQL Interview Challenge
 
-Solving **one SQL interview question every day for 100 days** and uploading the solution screenshot as daily proof of progress.
+Solving **one SQL interview question every day for 100 days** and uploading the solution screenshot as daily proof of progress
 
 | | |
 |---|---|
